@@ -47,3 +47,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - package.json
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-archives
